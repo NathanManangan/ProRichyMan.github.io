@@ -7,7 +7,37 @@ This is a world interactive website that our scrum team developed to help others
 #### To organize and highlight our projects through weekly sprints that connect to our PBL. This is shown through commits, tangibles and videos which are organized by the week to showcase work.
 
 ## Table of Contents
-| Title            | Link                                                                                                         |
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Wiki</td>
+      <td href="https://github.com/Reem57/flask_portfolio/wiki" >https://github.com/Reem57/flask_portfolio/wiki</td>
+    </tr>
+    <tr>
+      <td>Contributors</td>
+      <td href="https://github.com/Reem57/flask_portfolio#contributors" >https://github.com/Reem57/flask_portfolio#contributors</td>
+    </tr>
+    <tr>
+      <td>Sprint Overview</td>
+      <td href="https://github.com/Reem57/flask_portfolio#sprint-overview" >https://github.com/Reem57/flask_portfolio#sprint-overview</td>
+    </tr>
+    <tr>
+      <td>Jacob</td>
+      <td>https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit</td>
+    </tr>
+    <tr>
+      <td>James</td>
+      <td>https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit</td>
+    </tr>
+  </tbody>
+</table>
+| Title            | Link        |
 | ---------------- | ----------- |
 | Wiki | https://github.com/Reem57/flask_portfolio/wiki |
 | Contributors | https://github.com/Reem57/flask_portfolio#contributors |
