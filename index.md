@@ -6,12 +6,9 @@ This is a world interactive website that our scrum team developed to help others
 ## Purpose of README
 #### To organize and highlight our projects through weekly sprints that connect to our PBL. This is shown through commits, tangibles and videos which are organized by the week to showcase work.
 
-## Picture of us
-
-
 ## Table of Contents
 | Title            | Link                                                                                                         |
-| ---------------- | ------------------------------------------------------------------------------------------------------------ |
+| ---------------- | ----------- |
 | Wiki | https://github.com/Reem57/flask_portfolio/wiki |
 | Contributors | https://github.com/Reem57/flask_portfolio#contributors |
 | Sprint Overview | https://github.com/Reem57/flask_portfolio#sprint-overview |
