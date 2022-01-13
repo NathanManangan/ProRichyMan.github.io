@@ -26,11 +26,11 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
 
 | Name             | Journal                                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------------------------ |
-|  Reem | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing|
-|  Nathan | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing|
-|  Daniel | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing|
-|  Jacob | https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit|
-|  James | https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit|
+|  Reem | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing |
+|  Nathan | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing |
+|  Daniel | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing |
+|  Jacob | https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit |
+|  James | https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit |
 
 ## Teammates
 ---------------------------------------
