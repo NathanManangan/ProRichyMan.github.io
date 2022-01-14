@@ -123,45 +123,171 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
 </table>
 
 ### Sprint Overview
-| Week Number             | Issue List                                                                                                      |
-| ---------------- |------------------------| ------------------------------------------------------------------------------------------------------------ |
-|  Week 5 | https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+5%22 |
-|  Week 4 | https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+4%22 |
-|  Week 3 | https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+3%22 |
-|  Week 2 | https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+2%22 |
-|  Week 1 | https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+1%22 |
-|  Week 0 | https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+0%22 |
+<table>
+  <thead>
+    <tr>
+      <th>Week Number</th>
+      <th>Issue List</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 5</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+5%22</td>
+    </tr>
+    <tr>
+      <td>Week 4</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+4%22</td>
+    </tr><tr>
+      <td>Week 3</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+3%22</td>
+    </tr>
+    <tr>
+      <td>Week 2</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+2%22</td>
+    </tr>
+    <tr>
+      <td>Week 1</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+1%22</td>
+    </tr>
+    <tr>
+      <td>Week 0</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Week+0%22</td>
+    </tr>
+  </tbody>
+</table>
 
-### Week 3                                    
-| Members             | Jobs | Ticket                                                                                                      |
-| ---------------- |------------------------| ------------------------------------------------------------------------------------------------------------ |
-|  Nathan | Scrum Master | https://github.com/jar04/flask_portfolio/issues |
-|  Reem | TO | https://github.com/jar04/flask_portfolio/issues/27 |
-|  Daniel | Primary Designer | https://github.com/jar04/flask_portfolio/issues/20 |
-|  Jacob | Deployment Manager | http://dnhs-flask-portfolio.online/ |
-|  James | Github Admin | https://github.com/jar04/flask_portfolio/issues/26 |
-
+### Week 3
+<table>
+  <thead>
+    <tr>
+      <th>Members</th>
+      <th>Ticket</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nathan</td>
+      <td>https://github.com/jar04/flask_portfolio/issues</td>
+    </tr>
+    <tr>
+      <td>Reem</td>
+      <td>https://github.com/jar04/flask_portfolio/issues/27</td>
+    </tr><tr>
+      <td>Daniel</td>
+      <td>https://github.com/jar04/flask_portfolio/issues/20</td>
+    </tr>
+    <tr>
+      <td>Jacob</td>
+      <td>http://dnhs-flask-portfolio.online/</td>
+    </tr>
+    <tr>
+      <td>James</td>
+      <td>https://github.com/jar04/flask_portfolio/issues/26</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Week 2
-| Members             | Jobs | Ticket                                                                                                      |
-| ---------------- |------------------------| ------------------------------------------------------------------------------------------------------------ |
-|  Nathan | Scrum Master | https://github.com/Reem57/flask_portfolio/issues/11 |
-|  Reem | TO | https://github.com/Reem57/flask_portfolio/issues/11 |
-|  Daniel | Primary Designer | https://github.com/Reem57/flask_portfolio/issues/11 |
-|  Jacob | Deployment Manager | https://github.com/Reem57/flask_portfolio/issues/11 |
-|  James | Github Admin | https://github.com/Reem57/flask_portfolio/issues/11 |
+<table>
+  <thead>
+    <tr>
+      <th>Members</th>
+      <th>Ticket</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nathan</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/11</td>
+    </tr>
+    <tr>
+      <td>Reem</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/11</td>
+    </tr><tr>
+      <td>Daniel</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/11</td>
+    </tr>
+    <tr>
+      <td>Jacob</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/11</td>
+    </tr>
+    <tr>
+      <td>James</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/11</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Week 1
-| Members             | Jobs | Ticket                                                                                                      |
-| ---------------- |------------------------| ------------------------------------------------------------------------------------------------------------ |
-|  Nathan | Scrum Master | https://github.com/Reem57/flask_portfolio/wiki/Policies |
-|  Reem | TO | https://github.com/Reem57/flask_portfolio/issues/7 |
-|  Daniel | Primary Designer | https://github.com/Reem57/flask_portfolio/wiki/Theme |
-|  Jacob | Deployment Manager | https://github.com/Reem57/flask_portfolio/wiki/Deployment |
-|  James | Github Admin | https://github.com/Reem57/flask_portfolio/wiki/Contribution-Guidelines |
+<table>
+  <thead>
+    <tr>
+      <th>Members</th>
+      <th>Ticket</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nathan</td>
+      <td>https://github.com/Reem57/flask_portfolio/wiki/Policies</td>
+    </tr>
+    <tr>
+      <td>Reem</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/7</td>
+    </tr><tr>
+      <td>Daniel</td>
+      <td>https://github.com/Reem57/flask_portfolio/wiki/Theme</td>
+    </tr>
+    <tr>
+      <td>Jacob</td>
+      <td>https://github.com/Reem57/flask_portfolio/wiki/Deployment</td>
+    </tr>
+    <tr>
+      <td>James</td>
+      <td>https://github.com/Reem57/flask_portfolio/wiki/Contribution-Guidelines</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### Week 0
+<table>
+  <thead>
+    <tr>
+      <th>Members</th>
+      <th>Jobs</th>
+      <th>Ticket</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nathan</td>
+      <td>Scrum Master</td>
+      <td>https://github.com/Reem57/flask_portfolio/projects/1</td>
+    </tr>
+    <tr>
+      <td>Reem</td>
+      <td>TO</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/7</td>
+    </tr>
+    <tr>
+      <td>Daniel</td>
+      <td>Primary Manager</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/3</td>
+    </tr>
+    <tr>
+      <td>Jacob</td>
+      <td>Deployment Manager</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/11</td>
+    </tr>
+    <tr>
+      <td>James</td>
+      <td>Github Admin</td>
+      <td>https://github.com/Reem57/flask_portfolio/issues/1</td>
+    </tr>
+  </tbody>
+</table>
 | Members             | Jobs | Ticket                                                                                                      |
 | ---------------- |------------------------| ------------------------------------------------------------------------------------------------------------ |
 |  Nathan | Scrum Master | https://github.com/Reem57/flask_portfolio/projects/1 |
