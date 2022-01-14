@@ -288,10 +288,3 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
     </tr>
   </tbody>
 </table>
-| Members             | Jobs | Ticket                                                                                                      |
-| ---------------- |------------------------| ------------------------------------------------------------------------------------------------------------ |
-|  Nathan | Scrum Master | https://github.com/Reem57/flask_portfolio/projects/1 |
-|  Reem | TO | https://github.com/Reem57/flask_portfolio/issues/7 |
-|  Daniel | Primary Designer | https://github.com/Reem57/flask_portfolio/issues/3 |
-|  Jacob | Deployment Manager | https://github.com/Reem57/flask_portfolio/issues/11 |
-|  James | Github Admin | https://github.com/Reem57/flask_portfolio/issues/1 |
