@@ -1,12 +1,12 @@
-# Team Milkshake
+<h1> Team Milkshake </h1>
 
-## Purpose of Project
+<h2> Purpose of Project </h2>
 This is a world interactive website that our scrum team developed to help others learn about different countries and their diverse cultures. On this website, our team included many dropdown menus containing information about each country. Learn about us, new languages, best travel destinations, traditions, and interesting statistics in the form of api databases to stay informed about our world.
 
-## Purpose of README
-#### To organize and highlight our projects through weekly sprints that connect to our PBL. This is shown through commits, tangibles and videos which are organized by the week to showcase work.
+<h2> Purpose of README </h2>
+ To organize and highlight our projects through weekly sprints that connect to our PBL. This is shown through commits, tangibles and videos which are organized by the week to showcase work.
 
-## Table of Contents
+<h2> Table of Contents </h2>
 <table>
   <thead>
     <tr>
@@ -37,13 +37,35 @@ Contributors: Daniel, Nathan, Reem, James, & Jacob
 
 Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
 
-| Name             | Journal                                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------------------ |
-|  Reem | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing |
-|  Nathan | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing |
-|  Daniel | https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing |
-|  Jacob | https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit |
-|  James | https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit |
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Project</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nathan</td>
+      <td>https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing</td>
+    </tr>
+    <tr>
+      <td>Reem</td>
+      <td>https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing</td>
+    </tr><tr>
+      <td>James</td>
+      <td>https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit</td>
+    </tr>
+    <tr>
+      <td>Jacob</td>
+      <td>https://docs.google.com/document/d/1iWY0JFOhnv8dLGOX7WXPdvvbnUYI_WglTmJvhG3r4QQ/edit</td>
+    </tr>
+    <tr>
+      <td>Daniel</td>
+      <td>https://docs.google.com/document/d/12rQvrhtsNnlDFDhkCI9sT8w7fTD3y-4FW6W8LPLuf9w/edit?usp=sharing</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Teammates
 ---------------------------------------
