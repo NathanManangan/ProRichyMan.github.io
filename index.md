@@ -31,7 +31,6 @@ This is a world interactive website that our scrum team developed to help others
 </table>
 
 <h2> Contributors </h2>
----------------------------------------
 
 Contributors: Daniel, Nathan, Reem, James, & Jacob
 
@@ -68,7 +67,6 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
 </table>
 
 <h2> Teammates </h2>
----------------------------------------
 <table>
   <thead>
     <tr>
