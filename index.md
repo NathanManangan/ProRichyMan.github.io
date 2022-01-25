@@ -30,7 +30,7 @@ This is a world interactive website that our scrum team developed to help others
   </tbody>
 </table>
 
-## Contributors
+<h2> Contributors </h2>
 ---------------------------------------
 
 Contributors: Daniel, Nathan, Reem, James, & Jacob
@@ -67,7 +67,7 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
   </tbody>
 </table>
 
-## Teammates
+<h2> Teammates </h2>
 ---------------------------------------
 <table>
   <thead>
@@ -99,7 +99,7 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
   </tbody>
 </table>
 
-## Current Functions
+<h2> Current Functions </h2>
 <table>
   <thead>
     <tr>
@@ -144,7 +144,7 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
   
 </table>
 
-### Sprint Overview
+<h2> Sprint Overview </h2>
 <table>
   <thead>
     <tr>
@@ -179,7 +179,7 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
   </tbody>
 </table>
 
-### Week 3
+<h3> Week 3 </h3>
 <table>
   <thead>
     <tr>
@@ -210,7 +210,7 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
   </tbody>
 </table>
 
-### Week 2
+<h3> Week 2 </h3>
 <table>
   <thead>
     <tr>
@@ -241,7 +241,7 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
   </tbody>
 </table>
 
-### Week 1
+<h3> Week 1 </h3>
 <table>
   <thead>
     <tr>
@@ -273,7 +273,7 @@ Scrum Board: https://github.com/Reem57/flask_portfolio/projects/1
 </table>
 
 
-### Week 0
+<h3> Week 0 </h3>
 <table>
   <thead>
     <tr>
